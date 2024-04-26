@@ -4,4 +4,6 @@ read answer
 
 if [ $answer = "2" ]; then
 	echo "OK"
+else
+	echo "NG"
 fi
